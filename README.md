@@ -15,6 +15,7 @@ Technologies Used:
 4.Streamlit: Interactive web application
 
 Setup
+
 1.Install the required dependencies:
 
 pip install selenium beautifulsoup4 streamlit langchain ollama
